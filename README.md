@@ -33,4 +33,9 @@
 
 [<img width="100%" height="1" alt="divider" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/placeholder.svg">](#)
 
+[<img align="left" width="390" alt="🌸" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/anilist.svg">](#)
+[<img align="right" width="390" alt="🎵" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/music.svg">](#)
+
+[<img width="100%" height="1" alt="divider" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/placeholder.svg">](#)
+
 <sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
