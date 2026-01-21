@@ -11,7 +11,9 @@
   <img src="77dd3d3b3264caa95adca2026cdd5350.gif" alt="Banner" width="100%" />
 </p>
 
-<h2 align="center">⭐ Starred Tech</h2>
+<p align="center">
+  <b style="font-size: 24px;">⭐ Starred Tech</b>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,firebase,tailwind,vite,git,github,figma,postman,npm,socketio,vercel" alt="Tech Stack" />
