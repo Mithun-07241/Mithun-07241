@@ -1,6 +1,17 @@
+<h1 align="center">Hi 👋, I'm Mithun</h1>
+<h3 align="center">Full Stack Developer | MERN Enthusiast | Building Real-World Solutions</h3>
+
+<p align="center">
+  🚀 Passionate about creating scalable web & mobile applications<br>
+  💻 Currently mastering React Native, WebRTC & Cloud Deployment<br>
+  🌱 Always learning, always building, always shipping
+</p>
+
 <p align="center">
   <img src="77dd3d3b3264caa95adca2026cdd5350.gif" alt="Banner" width="100%" />
 </p>
+
+<h2 align="center">⭐ Starred Tech</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,firebase,tailwind,vite,git,github,figma,postman,npm,socketio,vercel" alt="Tech Stack" />
