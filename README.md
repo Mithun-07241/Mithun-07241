@@ -13,3 +13,5 @@
 [<img width="100%" alt="📅" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/calendar.svg">](#)
 
 [<img width="100%" alt="🐍" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/output/github-contribution-grid-snake-dark.svg">](#)
+
+[<img width="100%" alt="🌸" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/anilist.svg">](#)

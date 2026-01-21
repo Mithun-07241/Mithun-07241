@@ -174,7 +174,7 @@ jobs:
           config_display: large
           config_animations: yes
           plugin_anilist: yes
-          plugin_anilist_user: .user.login
+          plugin_anilist_user: Kenny2407
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
