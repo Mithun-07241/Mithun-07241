@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">Full Stack Developer | MERN Enthusiast | Building Real-World Solutions</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B%2C+I'm+Mithun;Full+Stack+Developer+%7C+MERN+Enthusiast;Building+Real-World+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  🚀 Passionate about creating scalable web & mobile applications<br>
-  💻 Currently mastering React Native, WebRTC & Cloud Deployment<br>
-  🌱 Always learning, always building, always shipping
+  <img src="https://komarev.com/ghpvc/?username=Mithun-07241&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mithun-07241?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+<p align="center">
+  <code>🚀 Passionate about creating scalable web & mobile applications</code><br>
+  <code>💻 Currently mastering React Native, WebRTC & Cloud Deployment</code><br>
+  <code>🌱 Always learning, always building, always shipping</code>
 </p>
 
 <p align="center">
