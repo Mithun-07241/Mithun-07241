@@ -14,7 +14,7 @@ jobs:
       - name: Generate General Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICTS_TOKEN }}
           filename: metrics/general.svg
           user: Mithun-07241
           template: classic
@@ -32,7 +32,7 @@ jobs:
       - name: Generate Languages Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICTS_TOKEN }}
           filename: metrics/languages.svg
           user: Mithun-07241
           template: classic
@@ -56,7 +56,7 @@ jobs:
       - name: Generate Streak Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICTS_TOKEN }}
           filename: metrics/streak.svg
           user: Mithun-07241
           template: classic
@@ -79,7 +79,7 @@ jobs:
       - name: Generate Achievements Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICTS_TOKEN }}
           filename: metrics/achievements.svg
           user: Mithun-07241
           template: classic
@@ -102,7 +102,7 @@ jobs:
       - name: Generate Calendar Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICTS_TOKEN }}
           filename: metrics/calendar.svg
           user: Mithun-07241
           template: classic
@@ -122,7 +122,7 @@ jobs:
       - name: Generate Notable Contributions
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICTS_TOKEN }}
           filename: metrics/notable.svg
           user: Mithun-07241
           template: classic
@@ -143,7 +143,7 @@ jobs:
       - name: Generate Lines Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICTS_TOKEN }}
           filename: metrics/lines.svg
           user: Mithun-07241
           template: classic
@@ -165,7 +165,7 @@ jobs:
       - name: Generate AniList Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICTS_TOKEN }}
           filename: metrics/anilist.svg
           user: Mithun-07241
           template: classic
@@ -190,7 +190,7 @@ jobs:
       - name: Generate Music Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICTS_TOKEN }}
           filename: metrics/music.svg
           user: Mithun-07241
           template: classic
