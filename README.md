@@ -17,27 +17,24 @@
 
 <br/>
 
-[<img align="left" width="490" alt="📊" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/general.svg">](#)
-[<img align="right" width="490" alt="💻" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/languages.svg">](#)
-[<img align="right" width="490" height="80" alt="divider" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/placeholder.svg">](#)
+[<img width="100%" alt="📊" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/general.svg">](#)
 
-[<img align="left" width="490" alt="🔥" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/streak.svg">](#)
-[<img align="right" width="490" alt="🏆" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/achievements.svg">](#)
+[<img width="100%" alt="💻" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/languages.svg">](#)
 
-[<img width="100%" height="1" alt="divider" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/placeholder.svg">](#)
+[<img width="100%" alt="🔥" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/streak.svg">](#)
 
-[<img align="left" width="490" alt="📅" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/calendar.svg">](#)
-[<img align="right" width="490" alt="⭐" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/notable.svg">](#)
-[<img align="right" width="490" height="80" alt="divider" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/placeholder.svg">](#)
+[<img width="100%" alt="🏆" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/achievements.svg">](#)
 
-[<img align="left" width="490" alt="📈" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/lines.svg">](#)
-[<img align="right" width="490" alt="🐍" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/output/github-contribution-grid-snake-dark.svg">](#)
+[<img width="100%" alt="📅" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/calendar.svg">](#)
 
-[<img width="100%" height="1" alt="divider" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/placeholder.svg">](#)
+[<img width="100%" alt="⭐" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/notable.svg">](#)
 
-[<img align="left" width="490" alt="🌸" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/anilist.svg">](#)
-[<img align="right" width="490" alt="🎵" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/music.svg">](#)
+[<img width="100%" alt="📈" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/lines.svg">](#)
 
-[<img width="100%" height="1" alt="divider" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/placeholder.svg">](#)
+[<img width="100%" alt="🐍" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/output/github-contribution-grid-snake-dark.svg">](#)
+
+[<img width="100%" alt="🌸" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/anilist.svg">](#)
+
+[<img width="100%" alt="🎵" src="https://raw.githubusercontent.com/Mithun-07241/Mithun-07241/main/metrics/music.svg">](#)
 
 <sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
